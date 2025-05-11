@@ -1,0 +1,3 @@
+/home/master/Documents/School/Bachelor's/Year2/AED/project/build/CMakeFiles/AED_project.dir
+/home/master/Documents/School/Bachelor's/Year2/AED/project/build/CMakeFiles/edit_cache.dir
+/home/master/Documents/School/Bachelor's/Year2/AED/project/build/CMakeFiles/rebuild_cache.dir

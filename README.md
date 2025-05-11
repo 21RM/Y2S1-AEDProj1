@@ -1,13 +1,9 @@
 # AED-project
 
-To make Doxygen documentation, run
+AED-project is a simple schedule-management program. Its purpose is to structure incoming data and perform various operations on schedules.
 
-```
-sudo apt install doxygen
-```
-to install Doxygen on a Linux machine with apt, and then run
+## Screenshots
 
-```
-doxygen myconfig
-```
-on the project root directory to generate the documentation.
+![Home Screenshot](images/img1.png)
+
+![Search Menu Screenshot](images/img2.jpg)

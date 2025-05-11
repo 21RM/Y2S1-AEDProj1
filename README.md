@@ -6,4 +6,4 @@ AED-project is a simple schedule-management program. Its purpose is to structure
 
 ![Home Screenshot](images/img1.png)
 
-![Search Menu Screenshot](images/img2.jpg)
+![Search Menu Screenshot](images/img2.png)
